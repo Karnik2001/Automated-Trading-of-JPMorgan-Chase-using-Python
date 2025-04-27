@@ -50,6 +50,10 @@ The project then visualizes the results and compares the performance of the trad
 
     Cumulative returns of the market vs. the strategy.
 
+## Citation
+
+https://www.geeksforgeeks.org/automated-trading-using-python/
+
 ## 📜 License
 
 This project is open source and available under the MIT License.
